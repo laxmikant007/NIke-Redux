@@ -2,7 +2,7 @@ function Footer() {
   return (
     <>
       <footer>
-        <p>Built with Love</p>
+        <p>A Quailty Product By Laxikant 😎</p>
       </footer>
     </>
   );
